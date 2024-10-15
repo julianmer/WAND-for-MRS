@@ -1,5 +1,7 @@
 # WAND: WAVELET ANALYSIS-BASED NEURAL DECOMPOSITION OF MRS SIGNALS FOR ARTIFACT REMOVAL
 
+[WAND: Wavelet Analysis-based Neural Decomposition of MRS Signals for Artifact Removal](https://arxiv.org/abs/2410.10427)
+
 ## Abstract
 
 Accurate quantification of metabolites in magnetic resonance spectroscopy (MRS) is challenged by low
